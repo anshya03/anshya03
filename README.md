@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Anshya 👋
 
-<!--
-**anshya03/anshya03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science Student  
+💻 Backend-focused Full Stack Developer  
+🚀 Passionate about building scalable systems and database engines  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- Python
+- SQL
+- Git & GitHub
+
+---
+
+## 🔥 Featured Projects
+
+### 🗄 MiniDB – Educational SQL Database Engine
+Built a file-based relational database system in Python supporting core SQL commands including CREATE, INSERT, SELECT, UPDATE, DELETE, GROUP BY, ORDER BY, and aggregate functions.
+
+### 🤖 AI WhatsApp Support Bot
+Developed an AI-powered backend system using Node.js and MongoDB with REST API integration and intelligent query handling.
+
+---
+
+## 📚 Currently Improving
+- Backend architecture & scalability
+- Authentication & security best practices
+- System design fundamentals
+
+---
+
+## 📫 Contact
+- Email: anshyakachroo@gmail.com
+- GitHub: https://github.com/anshya03
