@@ -44,3 +44,4 @@ Implemented JWT-based authentication with secure API design and database integra
 ## 📫 Contact
 - Email: anshyakachroo@gmail.com
 - GitHub: https://github.com/anshya03
+- LinkedIn: https://www.linkedin.com/in/anshya-kachroo-6b1292339
